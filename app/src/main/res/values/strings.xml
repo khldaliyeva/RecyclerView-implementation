@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView Implementation</string>
+    <string name="icon_description">Item Icon</string>
+</resources>
